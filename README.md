@@ -19,14 +19,14 @@ I work at **Jumbo SACCO Society Limited** where I keep the technology running �
 
 \---
 
-//## 🛠️ Tech Stack
+<!--//## 🛠️ Tech Stack
 
 !\[Windows Server](https://img.shields.io/badge/Windows\_Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 !\[Microsoft Dynamics](https://img.shields.io/badge/Microsoft\_Dynamics\_NAV-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
 !\[WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 !\[Networking](https://img.shields.io/badge/Networking-00B4D8?style=for-the-badge\&logo=cisco\&logoColor=white)
 !\[Active Directory](https://img.shields.io/badge/Active\_Directory-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
-!\[Adobe](https://img.shields.io/badge/Adobe\_Suite-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)//
+!\[Adobe](https://img.shields.io/badge/Adobe\_Suite-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)//-->
 
 \---
 

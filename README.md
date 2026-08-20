@@ -4,7 +4,6 @@
 
 I work at **Jumbo SACCO Society Limited** where I keep the technology running — from the network infrastructure and servers to the ERP system, mobile app, and the public-facing website. I also do graphics design and marketing support.
 
-\---
 
 ## 🔧 What I Do
 
@@ -17,7 +16,6 @@ I work at **Jumbo SACCO Society Limited** where I keep the technology running �
 |**Mobile App Support**|Jumbo SACCO mobile app — support, testing, user issue resolution|
 |**Graphics \& Marketing**|Posters, banners, social media graphics, brand materials|
 
-\---
 
 <!--//## 🛠️ Tech Stack
 
@@ -28,7 +26,7 @@ I work at **Jumbo SACCO Society Limited** where I keep the technology running �
 !\[Active Directory](https://img.shields.io/badge/Active\_Directory-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
 !\[Adobe](https://img.shields.io/badge/Adobe\_Suite-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)//-->
 
-\---
+
 
 ## 💼 Current Role
 
@@ -66,22 +64,22 @@ Design and maintenance of the organization's LAN/WAN, including structured cabli
 
 Day-to-day administration of the Navision ERP system — user accounts, permissions, troubleshooting, and data management.
 
-\---
 
-## 📊 GitHub Stats
+
+<!--## 📊 GitHub Stats
 
 !\[Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR\_GITHUB\_USERNAME\&show\_icons=true\&theme=tokyonight\&hide\_border=true)
 
-\---
+\----->
 
 ## 📫 Get in Touch
 
-* 🌍 **Website:** [jumbosacco.com](https://www.jumbosacco.com)
+* 🌍 **Website:** 
 * 📧 **Email:** christopheromari94@gmail.com
-* 💼 **LinkedIn:** linkedin.com/in/yourprofile
+* 💼 **LinkedIn:** www.linkedin.com/in/christopher-omari-36353b358
 * 📍 **Location:** Nairobi, Kenya
 
-\---
+
 
 *"Technology is best when it brings people together."*
 
